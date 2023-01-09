@@ -1,3 +1,7 @@
+refurb # Go check out https://github.com/dosisod/refurb, he's pretty cool
 black
 flake8
 mypy
+isort
+isort[colors]
+types-setuptools
